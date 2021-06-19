@@ -1,0 +1,16 @@
+.myinput{
+    color: white !important;
+    border: 0px solid red !important;
+    border-bottom: 2px solid white !important;
+    background: gray !important;
+  }
+  .user_name:focus{
+      border: 0px solid red;
+  }
+  .container-login{
+      display: grid;
+      place-items: center;
+  };
+  .bg-dark{
+      background: gray;
+  }

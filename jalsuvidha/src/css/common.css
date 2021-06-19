@@ -1,0 +1,11 @@
+.text-glow{
+    text-shadow: 0 0 0px #DA3287;
+
+}
+.light-white{
+    color: #878c88;
+}
+
+.rotate5{
+    transform: rotate(5deg);
+}
